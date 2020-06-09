@@ -41,7 +41,7 @@ Ishan Mishra
 
 If you would like to follow along interactively during the workshop, please do the following before the course starts:
 
-- Download and install [Anaconda](https://www.anaconda.com/download/). Use the latest version of Python 3 and be sure to check the box that says "Add Anaconda to my PATH environment variable" if on Windows.
+- Download and install [Anaconda](https://www.anaconda.com/download/) (official installation instructions are [here](https://docs.anaconda.com/anaconda/install/)). Use the latest version of Python 3 and be sure to check the box that says "Add Anaconda to my PATH environment variable" if on Windows.
 
 ![AnacondaPath](http://toolkit.geosci.xyz/_images/AnacondaPath.png)
 
