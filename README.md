@@ -39,7 +39,12 @@ Ishan Mishra
 
 ## *Before* the workshop
 
-- Anaconda download instructions (if needed)
+If you would like to follow along interactively during the workshop, please do the following before the course starts:
+
+- Download and install [Anaconda](https://www.anaconda.com/download/). Use the latest version of Python 3 and be sure to check the box that says "Add Anaconda to my PATH environment variable" if on Windows.
+
+![AnacondaPath](http://toolkit.geosci.xyz/_images/AnacondaPath.png)
+
 - Please go through the notebook [CrashCourseInPython.ipynb](intro/CrashCourseInPython.ipynb) in the 'intro' folder. It will help you revise the basic functionalities and concepts within Python.
 - The CrashCourseInPython.ipynb file is a Jupyter notebook: an open-source web application that allows one to create and share documents that contain live code, equations, visualizations and narrative text. It comes pre-installed with package distributions like Anaconda. However, if you don't have access to Jupyter/Python on your computer, you can find an online version of the notebook [here](https://colab.research.google.com/github/CUAstro-REU-Python-Workshop/2020-workshop/blob/master/intro/CrashCourseInPython.ipynb)!
 
