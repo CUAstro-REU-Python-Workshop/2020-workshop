@@ -1,4 +1,4 @@
-# 2020-workshop
+# 2020-python-workshop
 Welcome to the GitHub repository for the Cornell Astronomy Summer 2020 Python workshop!
 
 **Conveners:**
