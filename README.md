@@ -46,7 +46,7 @@ If you would like to follow along interactively during the workshop, please do t
 ![AnacondaPath](http://toolkit.geosci.xyz/_images/AnacondaPath.png)
 
 - Please go through the notebook [CrashCourseInPython.ipynb](intro/CrashCourseInPython.ipynb) in the 'intro' folder. It will help you revise the basic functionalities and concepts within Python.
-- The CrashCourseInPython.ipynb file is a Jupyter notebook: an open-source web application that allows one to create and share documents that contain live code, equations, visualizations and narrative text. It comes pre-installed with package distributions like Anaconda. However, if you don't have access to Jupyter/Python on your computer (or run into issues installing Anaconda/Python), you can find an online version of the notebook [here](https://colab.research.google.com/github/CUAstro-REU-Python-Workshop/2020-workshop/blob/master/intro/CrashCourseInPython.ipynb)!
+- The CrashCourseInPython.ipynb file is a Jupyter notebook: an open-source web application that allows one to create and share documents that contain live code, equations, visualizations and narrative text. It comes pre-installed with package distributions like Anaconda. However, if you don't have access to Jupyter/Python on your computer (or run into issues installing Anaconda/Python), you can find an online interactive version of the notebook [here](https://colab.research.google.com/github/CUAstro-REU-Python-Workshop/2020-workshop/blob/master/intro/CrashCourseInPython.ipynb)!
 
 ## *After* the workshop
 
