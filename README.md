@@ -9,8 +9,8 @@ Ishan Mishra
 |---:|:---|
 |Zoom link|sent via email|
 |               | Thursday, 11th June 2020 / 12:00 - 13:00|
-|Dates and time | Tuesday, 16th June 2020/ 11:00-12:00|
-|               | Wednesday, 17th June 2020/ 11:00-12:00|
+|Dates and time | Tuesday, 16th June 2020 / 11:00-12:00|
+|               | Wednesday, 17th June 2020 / 11:00-12:00|
 |Shared notes| [Google Docs](https://docs.google.com/document/d/15EWdbgX4bMWHFZuNGHzSeeRnfp9HjG8IXWHUPXJ4c5I/edit?usp=sharing)|
 
 
