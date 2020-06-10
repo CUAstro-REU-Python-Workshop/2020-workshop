@@ -73,4 +73,4 @@ If you would like to follow along interactively during the workshop, please do t
 
 
 ### Further reading
-[Resources list](RESOURCES.md)
+[Resources list](resources.md)
