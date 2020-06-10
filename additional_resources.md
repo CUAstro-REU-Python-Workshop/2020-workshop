@@ -19,10 +19,10 @@
    - [Data Science Stack Exchange](https://datascience.stackexchange.com/)
    - [Computational Science Stack Exchange](https://scicomp.stackexchange.com/)
  - A Note on these sites: make sure you read the rules and guidelines if posting your own question. You can also use a search engine like Google to scrape for answers to a question you have. As example queries:
-  - `site:stackoverflow.com numpy how to append to arrays`
-  - `site:stackexchange.com numpy interpolation accuracy`
-  - `site:stackoverflow.com AttributeError: 'list' object has no attribute 'encode'`
-  - Often even just searching `python how do I do X stack exchange` will bring up relevant results
+   - `site:stackoverflow.com numpy how to append to arrays`
+   - `site:stackexchange.com numpy interpolation accuracy`
+   - `site:stackoverflow.com AttributeError: 'list' object has no attribute 'encode'`
+   - Often even just searching `python how do I do X stack exchange` will bring up relevant results
 
 
 ## Command-Line
