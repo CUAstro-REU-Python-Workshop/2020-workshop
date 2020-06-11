@@ -39,7 +39,7 @@ We hope for this workshop to be a springboard from which you can learn much more
 | Duration (min) | Topic | Tools |
 |:--------------:|:------|:------|
 | 10             | intro slides on "taxonomy" of the Python ecosystem | |
-| 40+ | work in breakout rooms on `day1.ipynb` | Jupyter Notebook |
+| 40+ | work in breakout rooms on `day1.ipynb` [(Google Colab version)](https://colab.research.google.com/github/CUAstro-REU-Python-Workshop/2020-workshop/blob/master/day1/day1.ipynb) | Jupyter Notebook |
 | 10 (if time allows) | more advanced NumPy array details | |
 
 
