@@ -32,29 +32,32 @@ We hope for this workshop to be a springboard from which you can learn much more
 
 ## Learning Objectives
 
+- Gain awareness of Jupyter notebook - a tool that can help you organize research notes and code in one place. 
+- Obtain basic proficiency in popular python packages frequently used in astronomy research. 
+
 ## Tentative Agenda
 
 ### Day 1
 
-| Duration (min) | Topic | Tools |
-|:--------------:|:------|:------|
-| 10             | intro slides on "taxonomy" of the Python ecosystem | |
-| 40+ | work in breakout rooms on `day1.ipynb` | Jupyter Notebook |
-| 10 (if time allows) | more advanced NumPy array details | |
+| Duration (min) | Topic |
+|:--------------:|:------|
+| 10             | intro slides on "taxonomy" of the Python ecosystem | 
+| 40+ | work in breakout rooms on `day1.ipynb` [(Google Colab version)](https://colab.research.google.com/github/CUAstro-REU-Python-Workshop/2020-workshop/blob/master/day1/day1.ipynb) | 
+| 10 (if time allows) | more advanced NumPy array details |
 
 
 ### Day 2
 
-| Duration (min) | Topic | Tools |
-|:--------------:|:------|:------|
+| Duration (min) | Topic |
+|:--------------:|:------|
 
 - Exploring plotting with matplotlib
 
 
 ### Day 3
 
-| Duration (min) | Topic | Tools |
-|:--------------:|:------|:------|
+| Duration (min) | Topic |
+|:--------------:|:------|
 
 - Data analysis using Pandas, Astropy
 
