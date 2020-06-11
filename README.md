@@ -39,8 +39,9 @@ We hope for this workshop to be a springboard from which you can learn much more
 | Duration (min) | Topic | Tools |
 |:--------------:|:------|:------|
 
-- Python taxonomy. 
-- Using NumPy and Scipy for numerics. 
+- ~10 minute intro slides on "taxonomy" of the Python ecosystem
+- ~40+ minutes to work in breakout rooms on `day1.ipynb`
+- ~10 minutes (if time allows) more advanced NumPy array details
 
 
 ### Day 2
