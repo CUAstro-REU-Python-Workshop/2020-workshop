@@ -32,7 +32,7 @@ We hope for this workshop to be a springboard from which you can learn much more
 
 ## Learning Objectives
 
-- Gain awareness of Jupyter notebook - a tool that can help you organize your research notes and code in one place. 
+- Gain awareness of Jupyter notebook - a tool that can help you organize research notes and code in one place. 
 - Obtain basic proficiency in popular python packages frequently used in astronomy research. 
 
 ## Tentative Agenda
