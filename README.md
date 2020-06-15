@@ -46,7 +46,7 @@ We hope for this workshop to be a springboard from which you can learn much more
 
 ### Day 2
 
-- Exploring plotting with matplotlib (`day2.ipynb` or the [Google Colab version](https://github.com/CUAstro-REU-Python-Workshop/2020-workshop))
+- Exploring plotting with matplotlib (`day2.ipynb` or the [Google Colab version](https://colab.research.google.com/github/CUAstro-REU-Python-Workshop/2020-workshop/blob/master/day2/day2.ipynb))
 
 
 ### Day 3
