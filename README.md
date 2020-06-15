@@ -51,7 +51,7 @@ We hope for this workshop to be a springboard from which you can learn much more
 | Duration (min) | Topic |
 |:--------------:|:------|
 
-- Exploring plotting with matplotlib
+- Exploring plotting with matplotlib (`day2.ipynb` or the [Google Colab version](https://github.com/CUAstro-REU-Python-Workshop/2020-workshop))
 
 
 ### Day 3
