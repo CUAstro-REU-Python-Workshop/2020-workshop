@@ -39,9 +39,9 @@ We hope for this workshop to be a springboard from which you can learn much more
 
 ### Day 1
 
-- intro slides on "taxonomy" of the Python ecosystem | 
+- intro slides on "taxonomy" of the Python ecosystem
 - work in breakout rooms on `day1.ipynb` [(Google Colab version)](https://colab.research.google.com/github/CUAstro-REU-Python-Workshop/2020-workshop/blob/master/day1/day1.ipynb) 
--  more advanced NumPy array details |
+-  more advanced NumPy array details
 
 
 ### Day 2
