@@ -39,25 +39,17 @@ We hope for this workshop to be a springboard from which you can learn much more
 
 ### Day 1
 
-| Duration (min) | Topic |
-|:--------------:|:------|
-| 10             | intro slides on "taxonomy" of the Python ecosystem | 
-| 40+ | work in breakout rooms on `day1.ipynb` [(Google Colab version)](https://colab.research.google.com/github/CUAstro-REU-Python-Workshop/2020-workshop/blob/master/day1/day1.ipynb) | 
-| 10 (if time allows) | more advanced NumPy array details |
+- intro slides on "taxonomy" of the Python ecosystem | 
+- work in breakout rooms on `day1.ipynb` [(Google Colab version)](https://colab.research.google.com/github/CUAstro-REU-Python-Workshop/2020-workshop/blob/master/day1/day1.ipynb) 
+-  more advanced NumPy array details |
 
 
 ### Day 2
 
-| Duration (min) | Topic |
-|:--------------:|:------|
-
-- Exploring plotting with matplotlib
+- Exploring plotting with matplotlib (`day2.ipynb` or the [Google Colab version](https://colab.research.google.com/github/CUAstro-REU-Python-Workshop/2020-workshop/blob/master/day2/day2.ipynb))
 
 
 ### Day 3
-
-| Duration (min) | Topic |
-|:--------------:|:------|
 
 - Data analysis using Pandas, Astropy
 
