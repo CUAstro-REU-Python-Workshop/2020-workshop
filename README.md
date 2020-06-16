@@ -51,8 +51,7 @@ We hope for this workshop to be a springboard from which you can learn much more
 
 ### Day 3
 
-- Data analysis using Pandas, Seaborn `day3.ipynb` or the [Google Colab version]
-(https://colab.research.google.com/github/CUAstro-REU-Python-Workshop/2020-workshop/blob/master/day3/day3.ipynb)
+- Data analysis using Pandas, Seaborn `day3.ipynb` or the [Google Colab version](https://colab.research.google.com/github/CUAstro-REU-Python-Workshop/2020-workshop/blob/master/day3/day3.ipynb)
 
 ## *Before* the workshop
 
